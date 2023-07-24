@@ -1,4 +1,4 @@
-[![MasterHead](https://w.wallhaven.cc/full/ym/wallhaven-ymoqgl.png)](https://github.com/LokeshGujjar)
+[![MasterHead](https://w.wallhaven.cc/full/l3/wallhaven-l3dwd2.png)](https://github.com/LokeshGujjar)
 <h1 align="center">Hi 👋, I'm LokeshGujjar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
