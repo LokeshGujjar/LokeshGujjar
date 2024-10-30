@@ -1,7 +1,7 @@
 ```
 joyboy@loki
 ———-
-OS: macOS
+OS:macOS
 Uptime: 23 years 6 months
 Host: Chandigarh Engineering College-CGC
 Kernal: Bachelor of Science in Information Technology
