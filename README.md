@@ -1,5 +1,6 @@
+workstation@Mac ~ % neofetch
 ```
-          .-'''/.\              workstation@Mac.lan                                    
+          .-'''/.\              workstation@Mac                                        
          (_.--'  |              -------------------                                    
           |  ==  |              OS: macOS                                              
      o-._ .--..--. _.-o         Uptime: 23 years 6 months                              
