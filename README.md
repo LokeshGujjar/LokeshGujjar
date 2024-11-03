@@ -3,7 +3,7 @@ workstation@Mac ~ % neofetch
                    .-'''/.\                     workstation@Mac                                        
                   (_.--'  |                     -------------------                                    
                    |  ==  |                     OS: macOS                                              
-              o-._ .--..--. _.-o                Uptime: 23 years 6 months                              
+              o-._ .--..--. _.-o                Uptime: 23 years                              
                   |   ||   |                    Host: Chandigarh Engineering College-CGC               
                    ;--|`--:                     Kernal: Bachelor of Science in Information Technology  
                    |. |   |                     IDE: VScode                                            
